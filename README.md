@@ -1,1 +1,1 @@
-# SSL-DarkMatterIntellgience
+# SSL-DarkMatterIntelligence
